@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LillCop.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="app1name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2024</Value>
+    </Setting>
+    <Setting Name="app1path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Adobe\Adobe Illustrator 2024\Support Files\Contents\Windows\Illustrator.exe</Value>
+    </Setting>
+    <Setting Name="app2name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2025</Value>
+    </Setting>
+    <Setting Name="app2path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe</Value>
+    </Setting>
+    <Setting Name="app3name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2026</Value>
+    </Setting>
+    <Setting Name="app3path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Adobe\Adobe Illustrator 2026\Support Files\Contents\Windows\Illustrator.exe</Value>
+    </Setting>
+    <Setting Name="app4name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PS</Value>
+    </Setting>
+    <Setting Name="app4path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Adobe\Adobe Photoshop 2026\Photoshop.exe</Value>
+    </Setting>
+    <Setting Name="ver" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
